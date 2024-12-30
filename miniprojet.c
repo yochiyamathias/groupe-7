@@ -27,5 +27,3 @@ typedef struct {
     float montant;
     char dateOp[15];
 } Operation;
-
-	

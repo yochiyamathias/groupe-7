@@ -10,7 +10,7 @@ typedef struct {
     char ville[40];
 } Client;
 
-// structure pour un client
+// structure pour un compte
 typedef struct {
     int numero;
     char dateOuverture[15];
